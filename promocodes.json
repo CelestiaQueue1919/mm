@@ -1,4 +1,6 @@
 [
     {"code": "QWERTY", "discount": 4000, "minPurchase": 20000},
-    {"code": "TEST", "discount": 7000, "minPurchase": 25000}
+    {"code": "TEST", "discount": 7000, "minPurchase": 25000},
+    {"code": "ZAYATS1", "discount": 10000, "minPurchase": 550000 },
+    {"code": "ZAYATS2", "discount": 20000, "minPurchase": 110000 },
 ]
